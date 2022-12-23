@@ -26,5 +26,10 @@ Most novice players always claim a box if they can, but expert players take time
 4. A number of fun game board themes
 5. Automatic game saves so you can come back anytime
 6. Beautiful graphics and animations
-7.Simple, pleasing sound effects
+7. Simple, pleasing sound effects
 8. Totally free!
+
+## DOTS GAME, SQUARES, or PIGS IN A PEN
+Dots and Boxes has been known by many other names including the Dots Game, Boxes, Squares, Dot to Dot Grid, La Pipopipette, and our favorite- Pigs in a Pen!
+
+
