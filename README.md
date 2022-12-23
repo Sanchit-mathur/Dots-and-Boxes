@@ -36,3 +36,9 @@ Dots and Boxes has been known by many other names including the Dots Game, Boxes
 ## Screenshot
 <img width="652" alt="2022-12-23 (5)" src="https://user-images.githubusercontent.com/113260682/209302632-0668b72c-5f37-488f-b1a2-2af6d719a809.png">
 
+## Controls
+1. Player 1 starts the game
+2. Click on edges to mark them
+3. If a box is made, it gets shaded with the player assigned color
+4. When all the edges are marked, the result is displayed on the result screen
+5. Click anywhere on the result screen to play again
