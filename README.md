@@ -33,3 +33,6 @@ Most novice players always claim a box if they can, but expert players take time
 Dots and Boxes has been known by many other names including the Dots Game, Boxes, Squares, Dot to Dot Grid, La Pipopipette, and our favorite- Pigs in a Pen!
 
 
+## Screenshot
+<img width="652" alt="2022-12-23 (5)" src="https://user-images.githubusercontent.com/113260682/209302632-0668b72c-5f37-488f-b1a2-2af6d719a809.png">
+
